@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "uuid": "kijvSW7-DY",
+      "username": "johankivi",
+      "password": "$2b$10$2OtJaziPLN8OVdxwbVVkXeRCseDbpCBu5V2R0LEt8260ICkfgfYu6",
+      "userkey": "U2FsdGVkX19hjvDmprMWgwwaAfcPPc1QSrwHUGOKiig="
+    },
+    {
+      "uuid": "WKR9uqKCZ6",
+      "username": "hugokivi",
+      "password": "$2b$10$skhC/Veh.N/VktkMfrkbAOsqZ/0QIIWRPjHE8QsFV8sPkU49NyhYy",
+      "userkey": "U2FsdGVkX1+X/LPNqsxG3yxtRm6dYnXrxnBMdAGsmuU="
+    }
+  ],
+  "lcked": []
+}

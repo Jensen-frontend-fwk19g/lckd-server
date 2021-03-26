@@ -13,5 +13,27 @@
       "userkey": "U2FsdGVkX1+X/LPNqsxG3yxtRm6dYnXrxnBMdAGsmuU="
     }
   ],
-  "lcked": []
+  "lckd": [
+    {
+      "id": "HdHka1Ijj",
+      "owner": "bba47f28edc88d52908f496e3c48d387b07bea1ceaf03871889019b7dc5dcef15569cc9b6f894288019c849b4af8863ccdea2e2397df599cfb7ad999d921c657",
+      "username": "johan.kivi",
+      "password": "U2FsdGVkX19KS3fgChttln9tajZn/EJJANYKTqavIQM=",
+      "domain": "illuminati.org"
+    },
+    {
+      "id": "Aqt3PWpbl",
+      "owner": "bba47f28edc88d52908f496e3c48d387b07bea1ceaf03871889019b7dc5dcef15569cc9b6f894288019c849b4af8863ccdea2e2397df599cfb7ad999d921c657",
+      "username": "johan.kivi",
+      "password": "U2FsdGVkX18L86lWpB9gA3hU7Z/7UDyjOLrXIV51qic=",
+      "domain": "illuminati.org"
+    },
+    {
+      "id": "mH7yK59XF",
+      "owner": "bba47f28edc88d52908f496e3c48d387b07bea1ceaf03871889019b7dc5dcef15569cc9b6f894288019c849b4af8863ccdea2e2397df599cfb7ad999d921c657",
+      "username": "johan.kivi",
+      "password": "U2FsdGVkX196mzcdzCPXuJlTYshIH78dN1WE266M/go=",
+      "domain": "illuminati.org"
+    }
+  ]
 }

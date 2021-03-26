@@ -6,12 +6,6 @@ const jwt = require('jsonwebtoken');
 
 const router = new Router();
 
-router.post('/', async (req, res) => {
-
-    const credentials = req.body;
-    res.send(credentials)
-
-})
 
 router.post('/login', async (req, res) => {
 

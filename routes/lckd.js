@@ -14,7 +14,7 @@ router.post('/', async (req, res) => {
     try {
         // auth = is token valid?
         const verified_user = jwt.verify(token, process.env.JWT_KEY);
-
+        console.log(verified_user)
         // get user by uuid in DB
         let user = db
         .get('users')
@@ -22,7 +22,7 @@ router.post('/', async (req, res) => {
         .value();
 
         // decrypt user uuid
-        let DECRYPTED_USER_KEY = CryptoJS.AES.decrypt(user.userkey, process.env.SECRET).toString();
+        let DECRYPTED_USER_KEY = CryptoJS.AES.decrypt(user.userkey, process.env.SECRET).toString(CryptoJS.enc.Utf8);
 
         // encrypt info for DB
         const lckd = {

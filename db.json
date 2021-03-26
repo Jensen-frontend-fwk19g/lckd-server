@@ -1,38 +1,18 @@
 {
   "users": [
     {
-      "uuid": "kijvSW7-DY",
-      "username": "johankivi",
-      "password": "$2b$10$2OtJaziPLN8OVdxwbVVkXeRCseDbpCBu5V2R0LEt8260ICkfgfYu6",
-      "userkey": "U2FsdGVkX19hjvDmprMWgwwaAfcPPc1QSrwHUGOKiig="
-    },
-    {
-      "uuid": "WKR9uqKCZ6",
-      "username": "hugokivi",
-      "password": "$2b$10$skhC/Veh.N/VktkMfrkbAOsqZ/0QIIWRPjHE8QsFV8sPkU49NyhYy",
-      "userkey": "U2FsdGVkX1+X/LPNqsxG3yxtRm6dYnXrxnBMdAGsmuU="
+      "uuid": "MJODS2egWw",
+      "username": "johan.kivi@zocom.se",
+      "password": "$2b$10$rwK3FwzImivhAz/tSXSab.fjyZGyDP2jZQg4R8rdA05KjrXngr4n2",
+      "userkey": "U2FsdGVkX1/Xg/4e6VmQaO2VT24RenmOMGGgsGD01ug="
     }
   ],
   "lckd": [
     {
-      "id": "HdHka1Ijj",
-      "owner": "bba47f28edc88d52908f496e3c48d387b07bea1ceaf03871889019b7dc5dcef15569cc9b6f894288019c849b4af8863ccdea2e2397df599cfb7ad999d921c657",
+      "id": "L7CVjI2Of",
+      "owner": "160984bba24d9f2cd82a1dc97da0f36007fbd74a917bf38db681a1bd736d46c2236615f9806a155ae560764b66d85895c7b202c5a154eb1616ef2df8f928796a",
       "username": "johan.kivi",
-      "password": "U2FsdGVkX19KS3fgChttln9tajZn/EJJANYKTqavIQM=",
-      "domain": "illuminati.org"
-    },
-    {
-      "id": "Aqt3PWpbl",
-      "owner": "bba47f28edc88d52908f496e3c48d387b07bea1ceaf03871889019b7dc5dcef15569cc9b6f894288019c849b4af8863ccdea2e2397df599cfb7ad999d921c657",
-      "username": "johan.kivi",
-      "password": "U2FsdGVkX18L86lWpB9gA3hU7Z/7UDyjOLrXIV51qic=",
-      "domain": "illuminati.org"
-    },
-    {
-      "id": "mH7yK59XF",
-      "owner": "bba47f28edc88d52908f496e3c48d387b07bea1ceaf03871889019b7dc5dcef15569cc9b6f894288019c849b4af8863ccdea2e2397df599cfb7ad999d921c657",
-      "username": "johan.kivi",
-      "password": "U2FsdGVkX196mzcdzCPXuJlTYshIH78dN1WE266M/go=",
+      "password": "U2FsdGVkX19C+QP6az6l7Lh0n1mLYehRWX/NQmOgHk8=",
       "domain": "illuminati.org"
     }
   ]
